@@ -1,6 +1,12 @@
 # 📊 Meta Ads Performance Dashboard  
 
-> **An interactive Power BI dashboard analyzing Facebook and Instagram ad performance to uncover engagement, ROI, and audience insights.**  
+> **An interactive Power BI dashboard analyzing Facebook and Instagram ad performance to uncover engagement, ROI, and audience insights.**
+
+![Facebook Dashboard](https://raw.githubusercontent.com/ShagunSharma016/Meta-Ads-Performance-Dashboard/main/Facebook.png)  
+*Facebook Ad Performance Dashboard*
+
+![Instagram Dashboard](https://raw.githubusercontent.com/ShagunSharma016/Meta-Ads-Performance-Dashboard/main/Instagram.png)  
+*Instagram Ad Performance Dashboard*
 
 ---
 
