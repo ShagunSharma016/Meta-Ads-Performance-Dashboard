@@ -50,7 +50,9 @@ The goal was to turn raw ad data into **meaningful and actionable insights**.
 - **Reach & Performance:**  
   - **Facebook:** 215,972 impressions  
   - **Instagram:** 123,840 impressions  
-  - Despite fewer impressions, **Instagram CTR (11.86%) ≈ Facebook (11.76%)**, showing stronger engagement quality.  
+  - Despite fewer impressions, **Instagram CTR (11.86%) ≈ Facebook (11.76%)**, showing stronger engagement quality.
+    
+### **For Current Parameter: Impressions**
 
 - **Audience Behavior:**  
   - Peak engagement among users aged **18–30**.  
