@@ -81,7 +81,6 @@ The goal was to turn raw ad data into **meaningful and actionable insights**.
 ### 💡 What I Learned  
 - Analytics is about **understanding behavior, not just numbers**.  
 - Marketing data connects metrics to real business outcomes.  
-- You don’t have to be a user of a platform to **analyze it like a pro**.  
 - Every dataset teaches something — this one taught me **data storytelling + marketing intelligence**.  
 
 ---
