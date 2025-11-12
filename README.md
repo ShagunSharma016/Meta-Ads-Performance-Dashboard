@@ -11,90 +11,88 @@
 ---
 
 ### 🎯 Project Overview  
-This project was a personal challenge — I wanted to analyze **Meta Ads data** even though I had never used **Facebook** or **Instagram** before.  
-(The only Meta product I had used before this was **WhatsApp**).  
+This project was a personal challenge — I analyzed **Meta Ads data** even though I had never used **Facebook** or **Instagram** before.  
+(The only Meta product I had used before this was **WhatsApp** ).  
 
-I wanted to understand how marketing analytics works — how businesses measure success, optimize ad spend, and engage audiences.  
-So, I built a **Power BI dashboard** that visualizes ad performance, engagement, and ROI across **Facebook** and **Instagram** campaigns.  
+I wanted to understand how marketing analytics works — how businesses measure ad success, optimize spend, and engage audiences.  
+So, I built a **Power BI dashboard** visualizing ad performance, engagement, and ROI for both **Facebook** and **Instagram** campaigns.  
 
-This project became a great mix of **data analysis, design, and marketing logic** — and it turned out to be one of my most insightful builds so far.  
+It became a perfect blend of **data analysis, storytelling, and marketing logic** — one of my most insightful projects so far.  
 
 ---
 
 ### 💼 Objective  
-To design an **interactive and business-oriented Power BI dashboard** that helps marketing teams evaluate ad performance, identify key trends, and improve ROI across Meta platforms.  
-The main goal was to transform raw advertising data into **meaningful and actionable insights**.  
+To design an **interactive Power BI dashboard** that helps marketing teams evaluate ad performance, identify trends, and improve ROI.  
+The goal was to turn raw ad data into **meaningful and actionable insights**.  
 
 ---
 
 ### ⚙️ Tools & Skills Used  
-- **Power BI** → Data modeling, DAX, and dashboard design  
-- **Excel** → Data cleaning and preparation  
-- **DAX** → Custom KPIs: CTR, Engagement Rate, Conversion Rate, ROAS, etc.  
-- **Marketing Analytics** → Understanding campaign metrics and audience behavior  
+- **Power BI:** Data modeling, DAX, dashboard design  
+- **Excel:** Data cleaning and preparation  
+- **DAX:** KPIs like CTR, Engagement Rate, Conversion Rate, ROAS  
+- **Marketing Analytics:** Campaign performance and audience behavior analysis  
 
 ---
 
 ### 📈 Key Features  
 ✅ **Dynamic KPIs:** CTR, CPC, ROAS, Engagement Rate, Conversion Rate, and Spend  
 📊 **Platform Comparison:** Separate dashboards for **Facebook** and **Instagram**  
-🧭 **Interactive Filters:** Campaign Name, Target Interest, Date Range, and Measure Selector  
-🎨 **Modern UI:** Consistent layout, intuitive visuals, and clean blue palette  
-🌐 **Clickable Meta Icons:** Added official links to Meta, Facebook, Instagram, WhatsApp, and Threads  
-💬 **Insight Section:** Highlights key performance and audience trends  
+🧭 **Interactive Filters:** Campaign, Target Interest, Date Range, and Metric Selector  
+🎨 **Modern UI:** Clean layout with consistent visuals  
+🌐 **Clickable Meta Icons:** Quick access to official Meta platforms  
+💬 **Insights Section:** Highlights audience and performance trends  
 
 ---
 
 ### 💬 Insights & Findings  
 
-- 📊 **Overall Reach & Performance**  
-  - **Facebook** recorded **215,972 impressions**, while **Instagram** had **123,840**, showing Facebook’s wider audience reach.  
-  - Despite fewer impressions, **Instagram maintained a comparable CTR (11.86%)** to Facebook (11.76%) — indicating stronger engagement per view.  
+- **Reach & Performance:**  
+  - **Facebook:** 215,972 impressions  
+  - **Instagram:** 123,840 impressions  
+  - Despite fewer impressions, **Instagram CTR (11.86%) ≈ Facebook (11.76%)**, showing stronger engagement quality.  
 
-- 💡 **Audience Behavior**  
-  - Engagement peaked among users aged **18–30**, then gradually declined with age.  
-  - **Female audiences** had slightly higher engagement rates across both platforms.  
+- **Audience Behavior:**  
+  - Peak engagement among users aged **18–30**.  
+  - **Female audiences** had slightly higher interaction rates.  
 
-- 🌍 **Geographic Reach**  
-  - **North America and Europe** generated the most impressions — highlighting key audience markets.  
+- **Geographic Trends:**  
+  - **North America & Europe** dominated in impressions — key ad markets.  
 
-- 🧩 **Campaign Insights**  
-  - **Facebook Stories Ads** achieved the **highest Engagement Rate (17.59%)**, outperforming carousel and image ads.  
-  - On **Instagram**, **Carousel Ads** led with a **17.09% Engagement Rate**, proving that visual, scrollable content drives higher interaction.  
+- **Campaign Insights:**  
+  - **Facebook Stories Ads:** Highest Engagement Rate (**17.59%**)  
+  - **Instagram Carousel Ads:** Top performer (**17.09%**) — strong for visual storytelling.  
 
-- 💰 **Performance Efficiency**  
-  - **Facebook Purchase Rate:** 0.61%  
-  - **Instagram Purchase Rate:** 0.57%  
-  Both platforms show balanced conversion potential, with Facebook slightly ahead due to its broader reach.  
+- **Performance Efficiency:**  
+  - Facebook Purchase Rate: **0.61%** | Instagram: **0.57%**  
+  - Both platforms deliver balanced conversion potential.  
 
-- ⏰ **Time-Based Trends**  
-  - Engagement rates were slightly higher during **evening hours (6 PM – 10 PM)** — ideal for ad scheduling.  
-  - Weekly performance remained steady, ensuring consistent campaign visibility.  
+- **Time Trends:**  
+  - Engagement peaks during **6 PM – 10 PM** (evening hours).  
+  - Weekly performance remained stable.  
 
-- 🎯 **Conclusion**  
-  - **Facebook:** Broader reach and higher conversion efficiency  
-  - **Instagram:** Stronger engagement and visual impact  
-  Together, both platforms create a **balanced and effective advertising ecosystem**.  
+- **Conclusion:**  
+  - **Facebook →** Broader reach, higher conversions  
+  - **Instagram →** Higher engagement and visual impact  
+  Together they form a **balanced ad strategy** for brands.  
 
 ---
 
 ### 💡 What I Learned  
-- True analytics is not just about data — it’s about **understanding behavior and telling a story**.  
-- Marketing data connects numbers to real business outcomes.  
-- Even without being a platform user, you can **analyze its ecosystem through the data it creates**.  
-- Every dataset teaches something — this one taught me both **data storytelling and marketing intelligence**.  
+- Analytics is about **understanding behavior, not just numbers**.  
+- Marketing data connects metrics to real business outcomes.  
+- You don’t have to be a user of a platform to **analyze it like a pro**.  
+- Every dataset teaches something — this one taught me **data storytelling + marketing intelligence**.  
 
 ---
 
 ### 🚀 Outcome  
-A complete, **business-grade Meta Ads Dashboard** that showcases:  
-- Data cleaning and modeling  
+A complete **Meta Ads Dashboard** showcasing:  
+- Data cleaning & modeling  
 - DAX proficiency  
 - Marketing KPI visualization  
-- Insightful storytelling through data  
-
-This project demonstrates how **technical analysis and business context** work together — the core skill set of a great Data Analyst.  
-
+- Clear storytelling through data
+  
 ---
 
 ### 🌐 Official Meta Platform Links  
@@ -102,7 +100,9 @@ This project demonstrates how **technical analysis and business context** work t
 - [Facebook](https://www.facebook.com/)  
 - [Instagram](https://www.instagram.com/)  
 - [WhatsApp](https://www.whatsapp.com/?lang=en)  
-- [Threads](https://www.threads.com/)
-  
-**👤 Author:** Shagun Sharma   
+- [Threads](https://www.threads.com/)  
+
+---
+
+**👤 Author:** Shagun Sharma  
 **💼 Role:** Data Analyst  
