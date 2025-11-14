@@ -59,7 +59,7 @@ The goal was to turn raw ad data into **meaningful and actionable insights**.
   - **Female audiences** had slightly higher interaction rates.  
 
 - **Geographic Trends:**  
-  - **North America & Europe** dominated in impressions — key ad markets.  
+  - **North America & Europe** dominated in impressions, key ad markets.  
 
 - **Campaign Insights:**  
   - **Facebook Stories Ads:** Highest Engagement Rate (**17.59%**)  
@@ -83,7 +83,7 @@ The goal was to turn raw ad data into **meaningful and actionable insights**.
 ### 💡 What I Learned  
 - Analytics is about **understanding behavior, not just numbers**.  
 - Marketing data connects metrics to real business outcomes.  
-- Every dataset teaches something — this one taught me **data storytelling + marketing intelligence**.  
+- Every dataset teaches something, this one taught me **data storytelling + marketing intelligence**.  
 
 ---
 
