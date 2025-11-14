@@ -14,7 +14,7 @@
 This project was a personal challenge, I analyzed **Meta Ads data** even though I had never used **Facebook** or **Instagram** before.  
 (The only Meta product I had used before this was **WhatsApp** ).  
 
-I wanted to understand how marketing analytics works — how businesses measure ad success, optimize spend, and engage audiences.  
+I wanted to understand how marketing analytics works, how businesses measure ad success, optimize spend, and engage audiences.  
 So, I built a **Power BI dashboard** visualizing ad performance, engagement, and ROI for both **Facebook** and **Instagram** campaigns.  
 
 It became a perfect blend of **data analysis, storytelling, and marketing logic**, one of my most insightful projects so far.  
@@ -63,7 +63,7 @@ The goal was to turn raw ad data into **meaningful and actionable insights**.
 
 - **Campaign Insights:**  
   - **Facebook Stories Ads:** Highest Engagement Rate (**17.59%**)  
-  - **Instagram Carousel Ads:** Top performer (**17.09%**) — strong for visual storytelling.  
+  - **Instagram Carousel Ads:** Top performer (**17.09%**), strong for visual storytelling.  
 
 - **Performance Efficiency:**  
   - Facebook Purchase Rate: **0.61%** | Instagram: **0.57%**  
@@ -105,5 +105,5 @@ A complete **Meta Ads Dashboard** showcasing:
 
 ---
 
-**👤 Author:** Shagun Sharma  
+**👤 Author:** Shagun Sharma    
 **💼 Role:** Data Analyst  
